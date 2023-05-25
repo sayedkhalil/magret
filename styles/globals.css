@@ -402,7 +402,13 @@ opacity: 0;}
   width: 100%;
 }
 .sat3{
-  height:750px;
+  height:790px;
+  width: 100%;
+  padding: 0%;
+  margin: auto;
+}
+.sat{
+  height:500px;
   width: 100%;
   padding: 0%;
   margin: auto;
