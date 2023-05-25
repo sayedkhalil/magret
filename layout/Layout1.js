@@ -107,13 +107,13 @@ crossOrigin="anonymous"></script>
     </Link>
   </li>
   <li className="nav-item ">
-    <Link href="">
+    <Link href="/servises">
     <a className="nav-link text-dark " >خدماتنا</a>
     </Link>
   </li>
   
   <li className="nav-item ">
-    <Link href="">
+    <Link href="/aboute">
     <a className="nav-link text-dark " >من نحن</a>
     </Link>
   </li>
@@ -147,12 +147,12 @@ crossOrigin="anonymous"></script>
    
        <li className="nav-item text-end ms-auto"  onClick={()=>setnav("nav-side")}>
              
-          <a className="nav-link  " href=''>من نحن</a>
+          <a className="nav-link  " href='/aboute'>من نحن</a>
              
        </li>
        <li className="nav-item text-end ms-auto"  onClick={()=>setnav("nav-side")}>
              
-          <a className="nav-link  " href=''>خدماتنا</a>
+          <a className="nav-link  " href='./servises'>خدماتنا</a>
              
        </li>
       

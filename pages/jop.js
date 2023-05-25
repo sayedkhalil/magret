@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 const jop = () => {
     return (
         < div className="w-100 p-0 m-0 u2">
-        <img className="w-100" src="cover.svg" alt=""/>
+        <img className="w-100" src="bgg.png" alt=""/>
         <div className="mt-1 ">
             <Head>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"/>

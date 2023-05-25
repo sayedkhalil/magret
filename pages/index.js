@@ -31,8 +31,7 @@ export default function Home({getdata}) {
     <Mazaya/>
           
            <Partener data={getdata.getpart}/>
-          
-           <Owner/>
+        
            <NEw/>
            
               <Productes/>

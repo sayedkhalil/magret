@@ -32,7 +32,7 @@ crossOrigin="anonymous">
 </div>
 <div className="d-none rel d-lg-block">
   
-<a className={`btn otlb ${b}`} href="">اطلب الخدمة الآن </a>
+<a className={`btn otlb ${b}`} href="/otlob">اطلب الخدمة الآن </a>
   <a className={` otlb2 ${c}`} href="">مشاهدة الفيديو التعريفي </a>
 
 <div class="typing-demo1">
@@ -71,7 +71,7 @@ crossOrigin="anonymous">
 </div>
 
 <div className="d-block mobn d-lg-none">
-  <a className={`btn otlb ${b}`} href="">اطلب الخدمة الآن </a>
+  <a className={`btn otlb ${b}`} href="/otlob">اطلب الخدمة الآن </a>
   <a className={` otlb2 ${c}`} href="">مشاهدة الفيديو التعريفي </a>
 
 <div class="typing-demo">
