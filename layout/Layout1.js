@@ -100,24 +100,20 @@ crossOrigin="anonymous"></script>
   </div>
 </nav>
 <ul className={`nav justify-content-center ${styles.navdesk}`}>
-<li className="nav-item ">
-    <Link href="/aboute">
-    <a className="nav-link text-dark " >حمل التطبيق</a>
-    </Link>
-  </li>
+
   <li className="nav-item ">
     <Link href="/jop">
     <a className="nav-link text-dark " >التوظيف</a>
     </Link>
   </li>
   <li className="nav-item ">
-    <Link href="/restraunt">
-    <a className="nav-link text-dark " >سجل كتاجر</a>
+    <Link href="">
+    <a className="nav-link text-dark " >خدماتنا</a>
     </Link>
   </li>
   
   <li className="nav-item ">
-    <Link href="/aboute">
+    <Link href="">
     <a className="nav-link text-dark " >من نحن</a>
     </Link>
   </li>
@@ -151,24 +147,21 @@ crossOrigin="anonymous"></script>
    
        <li className="nav-item text-end ms-auto"  onClick={()=>setnav("nav-side")}>
              
-          <a className="nav-link  " href='/aboute'>من نحن</a>
+          <a className="nav-link  " href=''>من نحن</a>
+             
+       </li>
+       <li className="nav-item text-end ms-auto"  onClick={()=>setnav("nav-side")}>
+             
+          <a className="nav-link  " href=''>خدماتنا</a>
              
        </li>
       
-          <li className="nav-item text-end ms-auto"  onClick={()=>setnav("nav-side")}>
-             
-             <a className="nav-link  " href='/restraunt'>سجل كتاجر</a>
-                
-          </li>   <li className="nav-item text-end ms-auto"  onClick={()=>setnav("nav-side")}>
+           <li className="nav-item text-end ms-auto"  onClick={()=>setnav("nav-side")}>
              
              <a className="nav-link  " href='/jop'>التوظيف</a>
                 
           </li>
-          <li className="nav-item text-end ms-auto"  onClick={()=>setnav("nav-side")}>
-             
-             <a className="nav-link  " href='/aboute'>حمل التطبيق</a>
-                
-          </li>
+          
           
       </ul>
     </div>
@@ -197,7 +190,7 @@ crossOrigin="anonymous"></script>
     <div className="tooltip coloric">Youtube</div>
     <span><i id="coloric" className="fab coloric fa-1x fa-linkedin"></i></span>
   </a>:""}
-  <span className="ppp">aloo_com_sa</span>
+  <span className="ppp">magret_alsama</span>
   <a  href="https://api.whatsapp.com/send?phone=${info.whats}"><i id="coloric"  className="fab fa-whatsapp  fa-1x "></i></a>
   <a className="ppp" href={`tel:0506837260}`}>{info.whats}</a>
 </div>
@@ -247,11 +240,7 @@ crossOrigin="anonymous"></script>
     <ul className="row text-center list-unstyled">
      
 
-       <li className="col-6" >
-             <Link href={`/restraunt`}>
-    <a className="text-decoration-none text-dark " >سجل كتاجر</a>
-             </Link>
-       </li>
+      
       
     </ul>
     </div>
