@@ -33,7 +33,7 @@ crossOrigin="anonymous">
 <div className="d-none rel d-lg-block">
   
 <a className={`btn otlb ${b}`} href="/otlob">اطلب الخدمة الآن </a>
-  <a className={` otlb2 ${c}`} href="">مشاهدة الفيديو التعريفي </a>
+  <a className={` otlb2 ${c}`} href="/vedio">مشاهدة الفيديو التعريفي </a>
 
 <div class="typing-demo1">
   
@@ -72,7 +72,7 @@ crossOrigin="anonymous">
 
 <div className="d-block mobn d-lg-none">
   <a className={`btn otlb ${b}`} href="/otlob">اطلب الخدمة الآن </a>
-  <a className={` otlb2 ${c}`} href="">مشاهدة الفيديو التعريفي </a>
+  <a className={` otlb2 ${c}`} href="/vedio">مشاهدة الفيديو التعريفي </a>
 
 <div class="typing-demo">
  مجرة السمى لتقنية المعلومات من الجهات السعودية الرائدة في مجال تطوير البرمجيات والحلول الذكية في الشرق الأوسط. وتملك رؤية واضحة لتقديم خدمات عالية الجودة ومبتكرة لعملائها. وتتميز  بفريق عمل محترف ومؤهل يستخدم أحدث التقنيات والمعايير في تنفيذ المشاريع.  
