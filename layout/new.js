@@ -33,23 +33,25 @@ crossOrigin="anonymous">
 
 </div>
 <div  >
- 
+    
     <div className="d-none d-lg-block d-xl-block">
     <div className="row ">
-        {
+        {/* {
        i.map((item)=>(
         <img className="col-12 col-lg-3 p-2" src={item} alt=""/>
         ))
-    }
+    } */}
+ <a className="col-12 col-lg-3 p-2" href="https://www.info-alsama.com/"><img className="w-100" src="i2.png" alt=""/></a>
     </div>
     </div>
     <div className="d-block d-lg-none">
     <div className="row ">
-        {
+        {/* {
        i2.map((item)=>(
         <img className="col-6 col-lg-3 p-2 " src={item} alt=""/>
         ))
-    }
+    } */}
+     <a className="col-12 col-lg-3 p-2" href=""><img className="w-100" src="i2.png" alt=""/></a>
     </div>
     </div>
 
