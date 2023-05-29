@@ -29,7 +29,7 @@ integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+
 crossOrigin="anonymous">
 </script>
 <div className="row w-100">
-    <h4 className="col-12 col-lg-3 title ms-auto"> من أعمالنا أسعدت عملائنا</h4>
+    <h4 className="col-12 col-lg-3 title ms-auto"> :من أعمالنا</h4>
 
 </div>
 <div  >
